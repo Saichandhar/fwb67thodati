@@ -1,3 +1,3 @@
 # fwb67thodati
 
-[Heroku Remote Server link] (https://fwb67thodati.herokuapp.com/)
+[Heroku server](https://fwb67thodati.herokuapp.com/)
