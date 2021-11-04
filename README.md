@@ -1,8 +1,8 @@
 # fwb67thodati
 
-I am Sai Chandhar Reddy Thodati. This is Assignment-10
+I am Sai Chandhar Reddy Thodati and this is my Assignment-10.
 
-class:- earphones
+class:- earphones<br>
 Attrbutes:-Brand,Earphones_type,Cost
 
 
